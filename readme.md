@@ -148,7 +148,7 @@ SentinelLog is a **frontend‑only, privacy‑preserving SIEM‑lite** tool that
 - **Zero backend / zero database**
 
 ---
-<--!
+
 ## 🚀 Getting Started
 
 ### Development
@@ -182,7 +182,7 @@ SentinelLog/
 ├── index.html
 └── package.json
 ```
---!>
+
 
 ## 👨‍💻 Author
 
