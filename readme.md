@@ -183,28 +183,10 @@ SentinelLog/
 └── package.json
 ```
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-- Fork the repo
-- Create a feature branch
-- Submit a pull request
-
----
-
 ## 👨‍💻 Author
 
 **Ashutosh Gautam**\
 GitHub: [https://github.com/Ashutoshgit47](https://github.com/Ashutoshgit47)
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
 
 ---
 
